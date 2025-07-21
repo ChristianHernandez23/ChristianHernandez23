@@ -25,7 +25,7 @@
 - 💼 I’m currently open to new `job opportunities`.
 <br>
 
-## <picture> <https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src = "https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="https://github.com/ChristianHernandez23"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/+525526771907"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
