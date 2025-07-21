@@ -22,7 +22,7 @@
 - 🧰 I work with tools like `Python`, `SQL`, `Docker`, `GCP`, and `Ryu Controller`.
 - 🗣️ I’m fluent in `Spanish` and `English (C1)`, and currently learning `German (A1)`.
 - 🚀 Always eager to `learn new things`, work in multicultural teams, and grow as an engineer.
-- 💼 I’m currently open to new `job opportunities` — [here's my resume](mailto:clugo2309@hotmail.com).
+- 💼 I’m currently open to new `job opportunities`.
 <br>
 
 ## <picture> <https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
