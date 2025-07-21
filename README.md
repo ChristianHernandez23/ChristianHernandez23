@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Christian Hernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFAB&size=24&center=true&vCenter=true&width=700&height=100&lines=Electronics+%26+Communications+Engineer;Google+Cloud+Certified;Machine+Learning+Enthusiast;SDN+•+Python+•+MySQL+•+Docker;Exchange+Student+in+Madrid%2C+Spain;Data+Science+•+Power+BI+•+SQL;Open+to+job+opportunities;Always+learning+and+building">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFAB&size=24&center=true&vCenter=true&width=700&height=100&lines=Electronics+%26+Communications+Engineer;Google+Cloud+Certified;SDN+•+Python+•+MySQL+•+Docker;Exchange+Student+in+Madrid%2C+Spain;Data+Science+•+Power+BI+•+SQL;Open+to+job+opportunities;Always+learning">
   </a>
 </p>
 
