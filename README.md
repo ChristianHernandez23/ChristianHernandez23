@@ -7,9 +7,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFAB&size=24&center=true&vCenter=true&width=700&height=100&lines=Electronics+%26+Communications+Engineer;Google+Cloud+Certified;Machine+Learning+Enthusiast;SDN+•+Python+•+MySQL+•+Docker;Exchange+Student+in+Madrid%2C+Spain;Data+Science+•+Power+BI+•+SQL;Open+to+job+opportunities;Always+learning+and+building">
   </a>
 </p>
+
+
   
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+## <picture><img src = "https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <br><br>
 - 🎓 I recently graduated with a degree in `Electronics and Communications Engineering` from [ESIME Zacatenco - IPN](https://www.esimez.ipn.mx/).
@@ -23,7 +25,7 @@
 - 💼 I’m currently open to new `job opportunities` — [here's my resume](mailto:clugo2309@hotmail.com).
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="https://github.com/ChristianHernandez23"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/+525526771907"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
@@ -33,7 +35,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
+### <picture> <img src="https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
 
 <p align="center"> 
   &emsp;
@@ -50,7 +52,7 @@
   </a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Tools & Platforms
+### <picture> <img src="https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/Software_Tools.gif?raw=true" width="50px"> </picture> Tools & Platforms
 
 <p align="center">
   &emsp;
@@ -67,7 +69,7 @@
   <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=plastic&logo=virtualbox&logoColor=white"></a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> IDEs & Editors
+### <picture> <img src="https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/IDEs.gif?raw=true" width="50px"> </picture> IDEs & Editors
 
 <p align="center">
   &emsp;
@@ -78,7 +80,7 @@
   <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB%20-%23e16737.svg?style=plastic&logo=mathworks&logoColor=white"></a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Networking.gif?raw=true" width="50px"> </picture> Networking & Cloud
+### <picture> <img src="https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/m.gif?raw=true" width="50px"> </picture> Networking & Cloud
 
 <p align="center">
   &emsp;
@@ -89,7 +91,7 @@
   <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco%20Networking-%23049fd9.svg?style=plastic&logo=cisco&logoColor=white"></a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"> </picture> Operating Systems
+### <picture> <img src="https://github.com/ChristianHernandez23/ChristianHernandez23/blob/main/images/OS.gif?raw=true" width="50px"> </picture> Operating Systems
 
 <p align="center">
   &emsp;
